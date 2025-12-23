@@ -1,4 +1,5 @@
 # Sales Performance Dashboard (2016–2017)
+- Power BI dashboard analyzing sales trends, profitability, and regional performance (2016–2017).
 
 ## 📊 Project Overview
 This project analyzes sales performance using Power BI.
@@ -11,6 +12,9 @@ top products, and geographic distribution.
 - Data Modeling
 - Power Query
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 📈 Key Insights
 - Total Sales: 2.30M
 - Total Profit: 286K
@@ -22,8 +26,6 @@ top products, and geographic distribution.
 - Sales_Performance_Dashboard.pbix
 - Dashboard screenshots
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
 
 ## 👤 Author
 - Amir Payara
