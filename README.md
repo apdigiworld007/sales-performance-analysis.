@@ -23,7 +23,8 @@ top products, and geographic distribution.
 - Sales increased from 2016 to 2017
 
 ## 📂 Files
-- Sales_Performance_Dashboard.pbix
+- [Dashboard](https://www.tableau.com/sites/default/files/training/global_superstore.zip)
+- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard].(C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard.pbix)
 - Dashboard screenshots
 
 
