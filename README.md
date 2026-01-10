@@ -20,11 +20,11 @@ top products, and geographic distribution.
 - Total Profit: 286K
 - Total Orders: 5K
 - Technology is the highest-selling category
-- Sales increased from 2016 to 2017
+- Sales increased from 2014 to 2017
 
 ## 📂 Files
 - [Data Set](https://www.tableau.com/sites/default/files/training/global_superstore.zip)
-- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard.pbix)
+- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](Global_Superstore-USA-Sales_Performance_POWER-BI)
 
 
 ## 👤 Author
